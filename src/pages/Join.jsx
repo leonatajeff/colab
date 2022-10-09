@@ -8,7 +8,7 @@ export default function Join() {
         src="/img/logo.png"
         alt="COLAB Logo"
       />
-      <div className="-space-y-5 lg:scale-150 align-middle max-w-md mx-auto mt-32 lg:mt-72 p-9 ">
+      <div className="-space-y-5 lg:scale-150 align-middle max-w-md mx-auto mt-20 lg:mt-72 p-9 ">
         <div>
           <img
             className="mb-0"
@@ -23,7 +23,7 @@ export default function Join() {
         <br />
         <div className="items-center justify-center flex">
           <a
-            className="flex flex-row font-thin text-2xl lg:text-sm mt-24 lg:mt-12 text-white hover:text-gray-400"
+            className="flex flex-row font-thin text-xl lg:text-sm mt-12 lg:mt-16 text-white hover:text-gray-400"
             href="https://docs.google.com/forms/d/e/1FAIpQLSfMNCvi5iMo7VEkM6LjIwlkGRwEAXWVxMPR6-YWtA02ZcEC7Q/viewform"
           >
             Sign up to join
@@ -37,17 +37,7 @@ export default function Join() {
           </a>
         </div>
       </div>
-      {/*       <div className="absolute bottom-0 right-0 space-x-8 p-9 text-lg">
-        <a className="text-white" href="/">
-          Join us
-        </a>
-        <a className="text-white" href="/mission">
-          Our Mission
-        </a>
-        <a className="text-white" href="/team">
-          Our Team
-        </a>
-      </div> */}
+
     </div>
   );
 }
