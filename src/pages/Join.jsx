@@ -3,11 +3,13 @@ import React from "react";
 export default function Join() {
   return (
     <div className="bg-neutral-900">
-      <img
-        className="lg:absolute lg:bottom-0 lg:left-0 p-9"
-        src="/img/logo.png"
-        alt="COLAB Logo"
-      />
+      <div class="  ">
+        <img
+          className="lg:absolute lg:bottom-0 lg:left-0 p-9 object-scale-down"
+          src="/img/logo.svg"
+          alt="COLAB Logo"
+        />
+      </div>
       <div className="-space-y-5 lg:scale-150 align-middle max-w-md mx-auto mt-20 lg:mt-72 p-9 ">
         <div>
           <img

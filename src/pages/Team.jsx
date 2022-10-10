@@ -5,7 +5,7 @@ export default function Team() {
     <div>
       <img
         className="lg:absolute lg:bottom-0 lg:left-0 p-9"
-        src="/img/logo.png"
+        src="/img/logo.svg"
         alt="COLAB Logo"
       />
       <div class="max-w-3xl mx-auto pb-28">

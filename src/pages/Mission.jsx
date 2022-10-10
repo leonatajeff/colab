@@ -5,7 +5,7 @@ export default function Mission() {
     <div>
       <img
         className="lg:absolute lg:bottom-0 lg:left-0 p-9"
-        src="/img/logo.png"
+        src="/img/logo.svg"
         alt="COLAB Logo"
       />
       <div class="max-w-3xl mx-auto">
@@ -19,8 +19,8 @@ export default function Mission() {
           <p>
             We are making a bet on student potential — student builders have
             created this generation's most impactful products like Facebook,
-            Dropbox, Reddit, and DoorDash. We are super bullish on what Pitt's
-            talent can achieve.
+            Dropbox, Reddit, and DoorDash. We believe Pitt has a hand to play in
+            creating the next generation of products"
           </p>
           <p>
             We’re talking about initiatives like Pitt's very own national
