@@ -20,7 +20,7 @@ export default function Mission() {
             We are making a bet on student potential — student builders have
             created this generation's most impactful products like Facebook,
             Dropbox, Reddit, and DoorDash. We believe Pitt has a hand to play in
-            creating the next generation of products
+            creating the next generation of products.
           </p>
           <p>
             We’re talking about initiatives like Pitt's very own national
